@@ -20,6 +20,9 @@
 dist: trusty 
 
 language: java cpp 
+arch:
+  - amd64
+  - arm64
 
 compiler: gcc
 
